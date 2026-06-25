@@ -1,1 +1,0 @@
-# aula01_cedtec_react_native
