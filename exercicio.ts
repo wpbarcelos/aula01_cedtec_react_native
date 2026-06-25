@@ -73,6 +73,6 @@ function processar(valor: number, valor2: number, callback: CallbackInterface) {
   return callback(valor, valor2);
 }
 
-//
+//exemplos de uso do processar
 processar(100, 10, aplicarDesconto);
 processar(10, 10, somar);
